@@ -1,0 +1,1 @@
+{"version":3,"sources":["TodoList.scss","Todo.scss"],"names":[],"mappings":"AAAA,QACE,SAAU,CCDZ,WACE,WAAY,CACb,SAGC,SAAU","file":"main.488d7164.chunk.css","sourcesContent":[".status {\n  width: 10%;\n}\n",".spanGreen {\n  color: green;\n}\n\n.spanRed {\n  color: red;\n}\n"]}
